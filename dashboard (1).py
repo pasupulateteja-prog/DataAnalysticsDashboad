@@ -10,11 +10,6 @@ Original file is located at
 """
 Live Global Earthquake Dashboard (USGS)
 
-Install:
-    pip install streamlit pandas requests plotly
-
-Run:
-    streamlit run dashboard.py
 """
 
 import pandas as pd
