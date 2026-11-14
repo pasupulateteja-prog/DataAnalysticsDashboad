@@ -8,7 +8,7 @@ Original file is located at
 """
 
 """
-Live Global Earthquake Dashboard (USGS)
+
 
 """
 
